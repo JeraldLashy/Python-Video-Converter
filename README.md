@@ -1,6 +1,6 @@
 # Python-Video-Converter
 
-I created this code in less than 30mins to solve a small task of converting videos to these formats after being bored of converting videos one by one as a assigned task. 
+I created this code in less than 30mins to solve a small task of converting videos to these formats after being bored of converting videos one by one as an assigned task. 
 
 You are open to add Functionality to make the program cover larger base.  
 
